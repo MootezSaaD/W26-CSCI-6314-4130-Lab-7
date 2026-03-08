@@ -1,0 +1,7 @@
+python-dotenv
+transformers
+torch
+scikit-learn
+numpy
+tqdm
+matplotlib
